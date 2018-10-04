@@ -10,8 +10,7 @@ source:
   sha256: f6fb31513ab8cf7a1fceb5d67041989f05c0c3c3a54998328e257943627121e3
 
 build:
-  number: 0
-  noarch: python
+  number: 1
   script: "{{ PYTHON }} -m pip install . --no-deps --ignore-installed -vvv "
 
 requirements:
@@ -20,6 +19,8 @@ requirements:
     - python
   run:
     - python
+    - pathlib2  # [py2k]
+    - contextlib2  # [py2k]
 
 test:
   imports:
