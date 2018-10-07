@@ -14,8 +14,9 @@ Summary: A library to access the metadata for a Python package
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/importlib_metadata-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/importlib_metadata-feedstock)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/importlib_metadata-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/importlib_metadata-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/importlib_metadata-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/importlib_metadata-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/importlib_metadata-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/importlib-metadata-feedstock/branch/master)
 
 Current release info
 ====================
