@@ -21,6 +21,7 @@ requirements:
     - python
     - pathlib2  # [py2k]
     - contextlib2  # [py2k]
+    - configparser  # [py2k]
 
 test:
   imports:
