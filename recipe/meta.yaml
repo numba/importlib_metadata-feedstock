@@ -19,7 +19,7 @@ requirements:
     - python
   run:
     - python
-    - zipp >=0.3.2
+    - zipp >=0.5
     - pathlib2  # [py2k]
     - contextlib2  # [py2k]
     - configparser  # [py2k]
