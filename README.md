@@ -22,13 +22,6 @@ Current build status
         <img alt="macOS" src="https://img.shields.io/travis/conda-forge/importlib_metadata-feedstock/master.svg?label=macOS">
       </a>
     </td>
-  </tr><tr>
-    <td>Appveyor</td>
-    <td>
-      <a href="https://ci.appveyor.com/project/conda-forge/importlib-metadata-feedstock/branch/master">
-        <img alt="windows" src="https://img.shields.io/appveyor/ci/conda-forge/importlib-metadata-feedstock/master.svg?label=Windows">
-      </a>
-    </td>
   </tr>
     
   <tr>
