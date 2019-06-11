@@ -23,7 +23,7 @@ requirements:
     - zipp >=0.5
     - pathlib2  # [py2k]
     - contextlib2  # [py2k]
-    - configparser  # [py2k]
+    - configparser >=3.5  # [py2k]
 
 test:
   imports:
